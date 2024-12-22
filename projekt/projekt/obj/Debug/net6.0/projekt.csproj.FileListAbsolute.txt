@@ -1,0 +1,15 @@
+C:\Users\hanna\OneDrive\Pulpit\studia\3 semestr\Programowanie i projektowanie obiektowe\projekt\projekt\projekt\obj\Debug\net6.0\projekt.csproj.AssemblyReference.cache
+C:\Users\hanna\OneDrive\Pulpit\studia\3 semestr\Programowanie i projektowanie obiektowe\projekt\projekt\projekt\obj\Debug\net6.0\projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanna\OneDrive\Pulpit\studia\3 semestr\Programowanie i projektowanie obiektowe\projekt\projekt\projekt\obj\Debug\net6.0\projekt.AssemblyInfoInputs.cache
+C:\Users\hanna\OneDrive\Pulpit\studia\3 semestr\Programowanie i projektowanie obiektowe\projekt\projekt\projekt\obj\Debug\net6.0\projekt.AssemblyInfo.cs
+C:\Users\hanna\OneDrive\Pulpit\studia\3 semestr\Programowanie i projektowanie obiektowe\projekt\projekt\projekt\obj\Debug\net6.0\projekt.csproj.CoreCompileInputs.cache
+C:\Users\hanna\OneDrive\Pulpit\studia\3 semestr\Programowanie i projektowanie obiektowe\projekt\projekt\projekt\bin\Debug\net6.0\projekt.exe
+C:\Users\hanna\OneDrive\Pulpit\studia\3 semestr\Programowanie i projektowanie obiektowe\projekt\projekt\projekt\bin\Debug\net6.0\projekt.deps.json
+C:\Users\hanna\OneDrive\Pulpit\studia\3 semestr\Programowanie i projektowanie obiektowe\projekt\projekt\projekt\bin\Debug\net6.0\projekt.runtimeconfig.json
+C:\Users\hanna\OneDrive\Pulpit\studia\3 semestr\Programowanie i projektowanie obiektowe\projekt\projekt\projekt\bin\Debug\net6.0\projekt.dll
+C:\Users\hanna\OneDrive\Pulpit\studia\3 semestr\Programowanie i projektowanie obiektowe\projekt\projekt\projekt\bin\Debug\net6.0\projekt.pdb
+C:\Users\hanna\OneDrive\Pulpit\studia\3 semestr\Programowanie i projektowanie obiektowe\projekt\projekt\projekt\obj\Debug\net6.0\projekt.dll
+C:\Users\hanna\OneDrive\Pulpit\studia\3 semestr\Programowanie i projektowanie obiektowe\projekt\projekt\projekt\obj\Debug\net6.0\refint\projekt.dll
+C:\Users\hanna\OneDrive\Pulpit\studia\3 semestr\Programowanie i projektowanie obiektowe\projekt\projekt\projekt\obj\Debug\net6.0\projekt.pdb
+C:\Users\hanna\OneDrive\Pulpit\studia\3 semestr\Programowanie i projektowanie obiektowe\projekt\projekt\projekt\obj\Debug\net6.0\projekt.genruntimeconfig.cache
+C:\Users\hanna\OneDrive\Pulpit\studia\3 semestr\Programowanie i projektowanie obiektowe\projekt\projekt\projekt\obj\Debug\net6.0\ref\projekt.dll
